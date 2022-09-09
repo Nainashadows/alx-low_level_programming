@@ -1,3 +1,5 @@
+#include <stdlib.h>
+#include <time.h>
 #include <stdio.h>
 /**
  * main - print a randon number for variable 'n' each time it is executed
