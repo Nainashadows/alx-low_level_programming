@@ -2,10 +2,12 @@
 #include <stdio.h>
 
 /**
- * main - program that prints either number
- * or fizz or buzz or fizzBuzz
- *
- * Return: 0
+ * main - program the numbers from 1 to 100, followed by
+ * new line
+ * but for the multiples of three prints Fizz instead of the 
+ * number
+ * and for the multiples of five print Buzz
+ * Return: Always 0 (Success)
  */
 
 int main(void)
@@ -39,5 +41,4 @@ int main(void)
 	printf('\n');
 
 	return (0);
-
 }
