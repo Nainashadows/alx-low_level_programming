@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * print_square - prints square
+ * print_square - prints squares
  * @size: parameter
  * Return: 0
  */
@@ -21,7 +21,7 @@ void print_square(int size)
 			}
 			putchar('#');
 
-			putchar('#');
+			putchar('\n');
 		}
 	}
 	else
