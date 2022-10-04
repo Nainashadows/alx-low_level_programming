@@ -7,7 +7,7 @@
  * Return: a pointer to an array
  */
 
-char *create_array(unsigned int size, char c);
+char *create_array(unsigned int size, char c)
 {
 	unsigned int i;
 	char *s;
